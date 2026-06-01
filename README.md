@@ -14,3 +14,4 @@ Hi there 👋<br><br>Nice meeting you, I'm Riya Sheikh!<br><br> I'm a Full-Stack
 
 ---
 [![](https://komarev.com/ghpvc/?username=Riyaasheikh&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRiyaasheikh&count_bg=%23795548&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
